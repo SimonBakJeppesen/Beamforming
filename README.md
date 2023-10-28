@@ -2,10 +2,5 @@
 Beamforming experiments. Comparison of Delay-and-Sum (DAS)  and minimum variance distortionless response (MVDR) beamforming.
 
 ## Original speech signal 
+https://github.com/SimonBakJeppesen/Beamforming/assets/55833078/2e78cf36-faea-4345-84ff-e3f954b7ed79
 
-<a href="audiofiles/P501_C_english_m1_FB_48k.wav">
-  <img src="https://image-url-for-play-button.png" alt="Play" width="20" height="20" style="vertical-align:middle;">
-  Play original speech signal
-</a>
-
-## test
